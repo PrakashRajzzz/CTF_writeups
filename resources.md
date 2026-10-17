@@ -14,3 +14,4 @@ Resources used in no particular order:
 - [Google Images](https://images.google.com/)
 - [Google Maps](https://maps.google.co.in/)
 - [FL Studio Trial](https://www.image-line.com/fl-studio/download)
+- [Zed editor](https://zed.dev/)
