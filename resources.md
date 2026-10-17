@@ -1,0 +1,16 @@
+Resources used in no particular order:
+
+- [Dcode](https://www.dcode.fr/cipher-identifier)
+- [Cyberchef](https://cyberchef.org/)
+- [Steganotoolkit](https://stegotoolkit.com/steganography/image-steganography-extractor)
+- [Academo](https://academo.org/demos/spectrum-analyzer/)
+- [Exif tools](https://exif.tools/)
+- [GIMP](https://www.gimp.org/downloads/)
+- [Cryptii](https://cryptii.com/)
+- [Rapidtables](https://www.rapidtables.com/convert/number/binary-to-ascii.html)
+- [Windows Notepad](https://apps.microsoft.com/detail/9msmlrh6lzf3?hl=en-US&gl=US)
+- [Claude](https://claude.ai/new)
+- [ChatGPT](https://chatgpt.com/)
+- [Google Images](https://images.google.com/)
+- [Google Maps](https://maps.google.co.in/)
+- [FL Studio Trial](https://www.image-line.com/fl-studio/download)
